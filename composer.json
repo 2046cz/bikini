@@ -2,7 +2,7 @@
 	"name" : "twentyfortysix/bikini",
 	"homepage" : "https://github.com/twentyfortysix/bikini",
 	"authors" : "2046.cz",	
-	"type": "wordpress-plugin",
+	"type": "wordpress-theme",
 	"require":{
 		"php" : "5.6"
 	}
